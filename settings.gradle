@@ -1,0 +1,2 @@
+rootProject.name = "Message-Board-app"
+include ':app'
